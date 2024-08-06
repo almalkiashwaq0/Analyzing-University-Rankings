@@ -1,4 +1,12 @@
 
+### Team Members
+Ziyad
+Ashwag
+Osama
+Israa
+Naif
+
+![image](https://github.com/user-attachments/assets/a73f510f-e5d3-4241-af46-21493190ad0a)
 ## Introduction
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset related to university rankings. The goal is to uncover meaningful insights and patterns within the data that can help us better understand the factors that contribute to a university's ranking.
 
@@ -61,20 +69,14 @@ Here, you look at the relationships between two or more variables. This can invo
 
 
 7-
+
+
 #### Comparison of National Rank and Global Rank of Universities
 ![image](https://github.com/user-attachments/assets/0d361aae-6923-4d07-a063-b7026c31e495)
-8-
+8- King Abdulaziz University ranks highest both nationally and globally, while other universities have a high national rank but a much lower global rank.
+
 9-
 #### Top 50 Universities by Country
 ![image](https://github.com/user-attachments/assets/14001538-996e-4281-8f2a-653e07e87e94)
-10 -
-
-
-
-
-
-###Team Members
-Ziad
-Ashwag
-Osama
-Saraa
+10 -The USA dominates the top 50 universities list, followed by the United Kingdom and then France.
+ 
