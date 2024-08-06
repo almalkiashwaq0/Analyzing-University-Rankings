@@ -38,11 +38,13 @@ Here, you look at the relationships between two or more variables. This can invo
 ###final insights with charts
 
 ####Top-Ranked Universities by CWUR
+![image](https://github.com/user-attachments/assets/bf72fad3-0ede-45a1-9929-e98bd0b391d1)
 
 1-Harvard ranked first, so it is the best university in the world.
 2-Oxford is one of the top 5 universities
 
 ####Top Employability Ranks of Universities by CWUR
+![image](https://github.com/user-attachments/assets/099f621d-8dce-43e4-96ca-bee75c70d08a)
 
 3-Harvard must have an excellent education since it ranks first in employability.
 4-French universities are among the strongest in terms of employability.
@@ -73,4 +75,4 @@ Here, you look at the relationships between two or more variables. This can invo
 Ziad
 Ashwag
 Osama
-Sraa
+Saraa
