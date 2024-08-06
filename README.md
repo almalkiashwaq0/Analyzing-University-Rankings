@@ -2,7 +2,7 @@
 ## Introduction
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset related to university rankings. The goal is to uncover meaningful insights and patterns within the data that can help us better understand the factors that contribute to a university's ranking.
 
-###Dataset Overview and Source
+### Dataset Overview and Source
 The dataset used for this project contains information about the rankings of universities from around the world. The dataset includes various features such as the university name, location, ranking score, and several other attributes. The dataset was obtained from [a reputable source, e.g., QS World University Rankings or Times Higher Education World University Rankings]](https://www.shanghairanking.com/rankings/arwu/2022 , https://www.timeshighereducation.com/rankings/impact/overall/2023#!/length/100/sort_by/scores_overall/sort_order/desc , https://www.cwur.org/2023.php).
 
 
@@ -57,7 +57,9 @@ Here, you look at the relationships between two or more variables. This can invo
 #### Correlation of Various Factors with Overall University Score
 ![image](https://github.com/user-attachments/assets/7e914d6a-650e-42c6-b70a-db73f8b87ad4)
 
-6-
+6- Higher overall university scores are positively correlated with faculty ranking but negatively correlated with research rankings.
+
+
 7-
 #### Comparison of National Rank and Global Rank of Universities
 ![image](https://github.com/user-attachments/assets/0d361aae-6923-4d07-a063-b7026c31e495)
