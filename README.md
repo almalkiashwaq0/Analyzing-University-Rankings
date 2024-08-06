@@ -6,7 +6,6 @@
 * Israa
 * Naif
 
-![image](https://github.com/user-attachments/assets/a73f510f-e5d3-4241-af46-21493190ad0a)
 ## Introduction
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset related to university rankings. The goal is to uncover meaningful insights and patterns within the data that can help us better understand the factors that contribute to a university's ranking.
 
