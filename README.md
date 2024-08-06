@@ -1,14 +1,14 @@
 
-##Introduction
+## Introduction
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset related to university rankings. The goal is to uncover meaningful insights and patterns within the data that can help us better understand the factors that contribute to a university's ranking.
 
 ###Dataset Overview and Source
 The dataset used for this project contains information about the rankings of universities from around the world. The dataset includes various features such as the university name, location, ranking score, and several other attributes. The dataset was obtained from [a reputable source, e.g., QS World University Rankings or Times Higher Education World University Rankings]](https://www.shanghairanking.com/rankings/arwu/2022 , https://www.timeshighereducation.com/rankings/impact/overall/2023#!/length/100/sort_by/scores_overall/sort_order/desc , https://www.cwur.org/2023.php).
 
 
-##Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-###data profiling
+### Data Profiling
 1-relabbilty
 2-timeness
 3-consistency
@@ -21,40 +21,40 @@ Ensure that no critical data is missing. This might mean checking for null value
 7- Check Accuracy:
 Verify that the data is correct and precise. This could involve comparing data samples with known sources or using validation rules.
 
-###data data cleaninga
+### Data Cleaninga
 -Handling missing values
 -Correcting errors.
 -Dealing with outliers.
 
 
-###Univariate Analysis
+### Univariate Analysis
 Where is the center of the data? (location) --> Measures of central tendency
 How much does the data vary? (scale) --> Measure of variability
 What is the shape of the data? (shape) --> Measures of variation combined with an average (measure of center)
 
-###mul/Bi variate Analysis
+### mul/Bi variate Analysis
 Here, you look at the relationships between two or more variables. This can involve looking for correlations, patterns, and trends that suggest a relationship or an association.
 
-###final insights with charts
+### Final Insights With Charts
 
-####Top-Ranked Universities by CWUR
+#### Top-Ranked Universities by CWUR
 ![image](https://github.com/user-attachments/assets/bf72fad3-0ede-45a1-9929-e98bd0b391d1)
 
 1-Harvard ranked first, so it is the best university in the world.
 2-Oxford is one of the top 5 universities
 
-####Top Employability Ranks of Universities by CWUR
+#### Top Employability Ranks of Universities by CWUR
 ![image](https://github.com/user-attachments/assets/099f621d-8dce-43e4-96ca-bee75c70d08a)
 
 3-Harvard must have an excellent education since it ranks first in employability.
 4-French universities are among the strongest in terms of employability.
 
-####positions do universities in Saudi Arabia hold within the global
+#### positions do universities in Saudi Arabia hold within the global
 ![image](https://github.com/user-attachments/assets/cf13f473-fec2-48a7-ac0b-a983e6932cb0)
 5-There is a big difference between the different national universities compared to the world universities, as King Abdulaziz University is ranked 245th globally, but King Faisal University is ranked 1979th.
 
 
-####Correlation of Various Factors with Overall University Score
+#### Correlation of Various Factors with Overall University Score
 ![image](https://github.com/user-attachments/assets/7e914d6a-650e-42c6-b70a-db73f8b87ad4)
 
 6-
