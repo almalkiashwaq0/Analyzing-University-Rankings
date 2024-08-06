@@ -1,10 +1,10 @@
 
 ### Team Members
-Ziyad
-Ashwag
-Osama
-Israa
-Naif
+* Ziyad
+* Ashwag
+* Osama
+* Israa
+* Naif
 
 ![image](https://github.com/user-attachments/assets/a73f510f-e5d3-4241-af46-21493190ad0a)
 ## Introduction
