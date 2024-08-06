@@ -37,11 +37,40 @@ Here, you look at the relationships between two or more variables. This can invo
 
 ###final insights with charts
 
+####Top-Ranked Universities by CWUR
+
+1-Harvard ranked first, so it is the best university in the world.
+2-Oxford is one of the top 5 universities
+
+####Top Employability Ranks of Universities by CWUR
+
+3-Harvard must have an excellent education since it ranks first in employability.
+4-French universities are among the strongest in terms of employability.
+
+####positions do universities in Saudi Arabia hold within the global
+![image](https://github.com/user-attachments/assets/cf13f473-fec2-48a7-ac0b-a983e6932cb0)
+5-There is a big difference between the different national universities compared to the world universities, as King Abdulaziz University is ranked 245th globally, but King Faisal University is ranked 1979th.
+
+
+####Correlation of Various Factors with Overall University Score
+![image](https://github.com/user-attachments/assets/7e914d6a-650e-42c6-b70a-db73f8b87ad4)
+
+6-
+7-
+#### Comparison of National Rank and Global Rank of Universities
+![image](https://github.com/user-attachments/assets/0d361aae-6923-4d07-a063-b7026c31e495)
+8-
+9-
+#### Top 50 Universities by Country
+![image](https://github.com/user-attachments/assets/14001538-996e-4281-8f2a-653e07e87e94)
+10 -
+
+
+
 
 
 ###Team Members
-Naif
 Ziad
-Ashuag
+Ashwag
 Osama
 Sraa
