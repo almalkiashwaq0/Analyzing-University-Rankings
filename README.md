@@ -66,16 +66,12 @@ Here, you look at the relationships between two or more variables. This can invo
 
 6- Higher overall university scores are positively correlated with faculty ranking but negatively correlated with research rankings.
 
-
-7-
-
-
 #### Comparison of National Rank and Global Rank of Universities
 ![image](https://github.com/user-attachments/assets/0d361aae-6923-4d07-a063-b7026c31e495)
-8- King Abdulaziz University ranks highest both nationally and globally, while other universities have a high national rank but a much lower global rank.
+7- King Abdulaziz University ranks highest both nationally and globally, while other universities have a high national rank but a much lower global rank.
 
-9-
+
 #### Top 50 Universities by Country
 ![image](https://github.com/user-attachments/assets/14001538-996e-4281-8f2a-653e07e87e94)
-10 -The USA dominates the top 50 universities list, followed by the United Kingdom and then France.
+8 -The USA dominates the top 50 universities list, followed by the United Kingdom and then France.
  
